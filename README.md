@@ -4,7 +4,7 @@ Simple React+Redux application for testing training purposes - implemented follo
 
 ### Prerequisites
 
-####Check that you have node and npm installed
+#### Check that you have node and npm installed
 
 To check if you have Node.js installed, run this command in your terminal:
 ```
@@ -26,7 +26,6 @@ npm start
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
 
 ```
 npm run test
