@@ -19,7 +19,7 @@ npm -v
 
 ```
 git clone https://github.com/Chalecoslovaco/AdvancedReactAndRedux-Testing.git
-cd ReduxSimpleStarter AdvancedReactAndRedux-Testing
+cd AdvancedReactAndRedux-Testing
 npm install
 npm start
 ```
