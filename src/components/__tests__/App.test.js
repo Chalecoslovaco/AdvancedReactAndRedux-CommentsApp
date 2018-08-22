@@ -4,8 +4,10 @@ import App from 'components/App';
 import CommentBox from 'components/CommentBox';
 import CommentList from 'components/CommentList';
 
+let wrapped;
+
 beforeEach(() => {
-    const wrapped = shallow(<App />);
+    wrapped = shallow(<App />);
 });
 
 it('shows a comment box', () => {
