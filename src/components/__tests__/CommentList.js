@@ -22,3 +22,8 @@ beforeEach(() =>{
 it('has one <li> per comment', () => {
     expect(wrapped.find('li').length).toEqual(2);
 });
+
+it('shows the comment´s text', () => {
+    expect(wrapped.render().text()).toContain('Comment 0');
+    expect(wrapped.render().text()).toContain('Comment 1');
+});
