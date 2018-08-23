@@ -1,10 +1,18 @@
-# AdvancedReactAndRedux-Testing
+# AdvancedReactAndRedux-CommentsApp
 
-Simple React+Redux application for testing training purposes - implemented following Advanced React and Redux by Stephen Grider
+React+Redux application for training purposes - implemented following Advanced React and Redux by Stephen Grider
 
-### Prerequisites
+## Topics covered within the code
 
-#### Check that you have node and npm installed
+### Testing
+### High Order Components (In progress)
+### Middleware with Redux (Scheduled)
+### Server Setup - Authentication (Scheduled)
+### Client Side Auth (Scheduled)
+
+## Prerequisites
+
+### Check that you have node and npm installed
 
 To check if you have Node.js installed, run this command in your terminal:
 ```
@@ -25,7 +33,6 @@ npm start
 ```
 
 ## Running the tests
-
 
 ```
 npm run test
