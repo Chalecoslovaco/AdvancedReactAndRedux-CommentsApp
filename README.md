@@ -4,11 +4,11 @@ React+Redux application for training purposes - implemented following Advanced R
 
 ## Topics covered within the code
 
-### Testing
-### High Order Components (In progress)
-### Middleware with Redux (Scheduled)
-### Server Setup - Authentication (Scheduled)
-### Client Side Auth (Scheduled)
+* **Testing**
+* **High Order Components (In progress)**
+* **Middleware with Redux (Scheduled)**
+* **Server Setup - Authentication (Scheduled)**
+* **Client Side Auth (Scheduled)**
 
 ## Prerequisites
 
