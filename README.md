@@ -6,6 +6,7 @@ React+Redux application for training purposes - implemented following Advanced R
 
 * **Testing**
 * **High Order Component**
+* **Middlewares With Redux**
 
 ## Prerequisites
 
